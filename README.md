@@ -1,4 +1,4 @@
-# Fundamentos: dados, dados, em todos os lugares
+# :open_book: Fundamentos: dados, dados, em todos os lugares
 Neste curso foi apresentado os seguintes temas: 
   - Habilidades de que um analista de dados precisa ter.
   - Os processos de dados, ciclo de vida dos dados. 
@@ -10,3 +10,5 @@ Dentro desse repositório estou deixando três atividades que foram feitas de um
   - Terceira formato: finalizar dados numa planilha dentro do Excel com gráficos.
 
 O tema que eu pensei em colhetar foi as refeições do meu di a dia.
+
+Link do curso: https://www.coursera.org/programs/data-analytics-a1clj?currentTab=MY_LEARNING&myLearningTab=MY_COURSES&productId=GurxciftEeyxgAr51Gjbpw&productType=course&showMiniModal=true
